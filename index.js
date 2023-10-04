@@ -1,3 +1,3 @@
-import validaProdutos from './src/valida-produtos/index.js'
+import './src/valida-produtos/index.js';
 
-validaProdutos([])
+// validaProdutos('sabonete dove')
